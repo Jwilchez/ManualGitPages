@@ -2603,7 +2603,7 @@
 		background-image: url("../../images/logoCoCreaLab.png");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: auto;
 		content: '';
 		display: block;
 		height: 15em;
